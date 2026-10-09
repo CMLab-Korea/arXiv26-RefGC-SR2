@@ -2,10 +2,10 @@
   [arXiv'26] RefGC-SR<sup>2</sup>: Reference-guided Super-Resolution and Refinement of AI Generated Content
 </h1>
 
-**[Jeahun Sung](mailto:jhseong@cau.ac.kr)**<sup>1*</sup>,
-**[Dahyeon Kye](mailto:rpekgus@cau.ac.kr)**<sup>1*</sup>,
-**[Soo Ye Kim](mailto:sooyek@adobe.com)**<sup>2†</sup>,
-**[Jihyong Oh](mailto:jihyongoh@cau.ac.kr)**<sup>1†</sup>
+**[Jeahun Sung](https://jeahun00.github.io/about/)**<sup>1*</sup>,
+**[Dahyeon Kye](https://rpdahxn.github.io/)**<sup>1*</sup>,
+**[Soo Ye Kim](https://sites.google.com/view/sooyekim)**<sup>2†</sup>,
+**[Jihyong Oh](https://cmlab.cau.ac.kr/our-team/principal-investigator-pi)**<sup>1†</sup>
 <br>
 <sup>1</sup>CMLab, Chung-Ang University &nbsp; <sup>2</sup>Adobe Research
 <br>
